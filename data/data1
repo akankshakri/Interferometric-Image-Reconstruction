@@ -1,0 +1,4 @@
+https://amhra.oca.eu/AMHRA/sgbe-hdust/input.htm
+use this link for downloading for Supergiant B[e] with HDUST
+Description
+Grid of models for B[e] supergiant stars computed with the 3d Monte Carlo radiative transfer code HDUST. The non-spherical circumstellar envelope (CSE), composed of gas (hydrogen) and dust (silicate), is modelled considering a bimodal outflow description (two-component wind): fast and low density in the polar regions and slower and high density in the equatorial regions. Dust is allowed to exist only in the denser equatorial regions (defined by a dust opening angle) and only beyond the sublimation radius. The grid was computed for several combinations of model parameters and cover many wavelengths in the near- and mid-IR domains, with a more detailed sampling of the Br gamma line.
